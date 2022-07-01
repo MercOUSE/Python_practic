@@ -1,1 +1,2 @@
 print ('practic')
+print('lalala')
