@@ -1,3 +1,4 @@
+# Пример 5
 var = 'I am a string'
 print(var)
 print(type(var))

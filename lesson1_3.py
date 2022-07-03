@@ -1,4 +1,4 @@
-
+# Пример 4
 import wpf
 from System.Windows import Application, window
 
