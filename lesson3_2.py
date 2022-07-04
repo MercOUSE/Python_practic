@@ -6,3 +6,10 @@ print(pre_last)
 
 result = my_list[0] + my_list[-1]
 print(result)
+
+# Пример 12
+
+my_list = [5, 7, 9, 1, 1, 2]
+print(my_list[2::2])
+print(my_list[:-2])
+print(my_list[::-2])
