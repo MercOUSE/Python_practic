@@ -1,3 +1,4 @@
+# Пример 16
 number = int(input("Enter a number: "))
 if number > 5:
     print("This number is greater than five.")
