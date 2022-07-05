@@ -1,5 +1,3 @@
-# Урок 1 
-
 # Пример 1
 d = {'first': 8, 'second': 42}
 for (k, v) in d.items():
