@@ -1,5 +1,4 @@
 # Пример 34
-
 def nonrecursive_factorial(n):
     result = 1
     for multiplier in range(2, n + 1):
